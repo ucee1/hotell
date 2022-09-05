@@ -1,0 +1,53 @@
+.background-image{
+    background-image: linear-gradient(to top, transparent 0%, #00917c 100%), url(./images/pexels-asad-photo-maldives-1268855.jpg); 
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-brand h4{
+    font-weight: 900;
+    font-size: 20px;
+}
+.someplace h1{
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 50px;
+     line-height: 51px;
+     font-weight: bold;
+     margin-top: 185px;
+
+}
+.button a{
+    background-color: #00917c;
+    border: none;
+    color: white;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding: 15px 25px;
+
+}
+.section-1{
+    position: relative;
+    bottom: 70px;
+    height: 150px;
+    width: 100%;
+    background-color:white;
+}
+
+.button-2 a{
+    background-color: #00917c;
+    border: none;
+    color: white;
+    border-top-right-radius: 35px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    padding: 10px 70px;
+}
+
+
+
+
+
